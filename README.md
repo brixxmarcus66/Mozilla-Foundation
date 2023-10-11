@@ -7,6 +7,6 @@ La Mozilla Foundation, conocida simplemente como Mozilla, es una organización s
 
 La Mozilla Foundation ha desempeñado un papel significativo en la defensa de una Internet abierta y en la promoción de estándares web abiertos. Su trabajo en la protección de la privacidad y la seguridad en línea ha influido en la industria y ha beneficiado a los usuarios de todo el mundo.
 
-Misión: La misión de Mozilla es "asegurar que la Internet sea un recurso público global, abierto y accesible para todos". La organización se dedica a promover los valores de la apertura, la innovación y la participación en línea.
+Misión: La misión de Mozilla es "asegurar que Internet sea un recurso público global, abierto y accesible para todos". La organización se dedica a promover los valores de la apertura, la innovación y la participación en línea.
 
 
